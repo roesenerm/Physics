@@ -65,7 +65,7 @@ class Particle:
         print 'Inference:', inference
 
 
-pygame.display.set_caption('tutorial 1')
+pygame.display.set_caption('Predict Ball Movement')
 
 my_first_particle = Particle((150,50), 15)
 
